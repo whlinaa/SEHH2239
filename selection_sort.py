@@ -1,4 +1,5 @@
 # 2022-01-14 07:20:59
+
 def selection_sort(a):
     """early termination version of in-place selection sort. 
     this version finds the max element in each iteration.
